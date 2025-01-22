@@ -1,6 +1,6 @@
 #### Terminal Run
 ```terminal
-$env:PYTHONPATH = "absolute path of root directory"     # "C:\Users\username\...\Deep-Learning-from-Scratch"
+$env:PYTHONPATH = "absolute path of root directory"     # e.g. (Windows) "C:\Users\username\...\Deep-Learning-from-Scratch"
 python script/sicn.py                                   # or python main.py
 ```
 
