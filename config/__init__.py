@@ -1,1 +1,2 @@
-from .gpu import GPU
+from .gpu import *
+from .np import *
